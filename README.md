@@ -42,7 +42,7 @@ The dataset was obtained from the scikit-learn library.
 or
 > ``` 
 > conda create --name mini-tensor-flow python=3
-> conda activate mini-tensor-flow
+> source activate mini-tensor-flow
 > conda install numpy scikit-learn
 > ```
 3. Execute neural network for see the loss value tend to zero
@@ -53,3 +53,4 @@ or
 ## Author
 
 [Lorival Smolski Chapuis](https://github.com/lorival)
+> This project was developed during the [deep-learning](https://br.udacity.com/course/deep-learning-nanodegree-foundation--nd101) nanodegree from [Udacity](https://br.udacity.com/) 
